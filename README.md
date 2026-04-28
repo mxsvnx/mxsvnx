@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Максим 👋
 
-<!--
-**mxsvnx/mxsvnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент ТПУ (Информатика и вычислительная техника), изучаю QA-тестирование.
+Ищу стажировку в QA-инженеры.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Пишу тест-кейсы, чек-листы и баг-репорты
+- Тестирую REST API через Postman
+- Пишу SQL-запросы для проверки качества данных
+
+## Навыки
+
+![SQL](https://img.shields.io/badge/SQL-базовый-blue)
+![Postman](https://img.shields.io/badge/Postman-работаю-orange)
+![Git](https://img.shields.io/badge/Git-базовый-red)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-изучаю-green)
+
+## QA-проекты
+
+| Проект | Описание |
+|--------|----------|
+| [manual-testing-reqres](https://github.com/mxsvnx/manual-testing-reqres) | Тест-кейсы, чек-лист, баг-репорты |
+| [api-testing-jsonplaceholder](https://github.com/mxsvnx/api-testing-jsonplaceholder) | API-тестирование через Postman |
+| [sql-queries-qa](https://github.com/mxsvnx/sql-queries-qa) | SQL-запросы для контроля качества данных |
