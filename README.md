@@ -12,7 +12,7 @@
 ## Навыки
 
 ![SQL](https://img.shields.io/badge/SQL-базовый-blue)
-![Postman](https://img.shields.io/badge/Postman-работаю-orange)
+![Postman](https://img.shields.io/badge/Postman-базовый-orange)
 ![Git](https://img.shields.io/badge/Git-базовый-red)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-изучаю-green)
 
