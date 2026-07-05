@@ -20,6 +20,6 @@
 
 ## Контакты
 
-- Telegram: t.me/Bball_7
-- Email: maksim-osmanov01@yandex.ru
-- VK: vk.com/mxsvnx
+- Telegram: [t.me/Bball_7](https://t.me/Bball_7)
+- Email: [maksim-osmanov01@yandex.ru](mailto:maksim-osmanov01@yandex.ru)
+- VK: [vk.com/mxsvnx](https://vk.com/mxsvnx)
